@@ -1,3 +1,4 @@
+
 **<ins>Name</ins>:-** KARE PRASANTH
 
 **<ins>COMPANY</ins>:-** CODTECH IT SOLUTION
@@ -17,7 +18,11 @@ The **Food Recipe Finder** web page is a simple, user-friendly tool that allows 
 ### Key Components:
 1. **Search Input Field**: The input field lets users type keywords related to recipes or ingredients they are interested in. It provides a convenient way to search by entering a specific term.
   
-2. **Search Button with Icon**: The search button, designed with a magnifying glass icon, allows users to submit their query. The icon is built with an SVG graphic for sharp, scalable visuals.
+2. **Search Button with Icon**: The search button, designed with a magnifying glass icon, allows users to submit their query. The icon is built with an SVG graphic for sharp, scalable visuals
+
+![Screenshot 2024-11-18 184346](https://github.com/user-attachments/assets/a7bb9d00-9e86-48c6-b50e-532456371059)
+![Screenshot 2024-11-18 184413](https://github.com/user-attachments/assets/2337cd6a-d63b-4087-86ab-91ae96e33d86)
+![Screenshot 2024-11-18 184432](https://github.com/user-attachments/assets/8dbc02ac-2904-4ece-81d1-e391d50a16af)
 
 3. **Recipe Results Section**: Once a search is performed, matching recipes are displayed in the "recipe-result" section. The results are dynamically populated within an unordered list (`<ul>`) with an ID of "results."
 
